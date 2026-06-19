@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./assets/github-banner.png.png" width="100%" alt="Rahul Somkuwar AI Architect Banner"/>
+
+</div>
+
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Rahul%20Somkuwar&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Architect%20%7C%20Agentic%20AI%20Systems%20Engineer%20%7C%20Enterprise%20AI%20Platform%20Builder&descAlignY=60&color=gradient&customColorList=24,25,30,2,17"/>
 
 </div>
