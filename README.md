@@ -50,7 +50,7 @@ Focused on designing intelligent systems, scalable AI platforms, workflow automa
 
 ---
 
-# 🚀 Core Expertise
+# 🚀Expertise
 
 ```yaml
 Artificial Intelligence
