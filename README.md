@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.png.png" width="100%" alt="Rahul Somkuwar AI Architect Banner"/>
+<img src="./assets/github-banner.png" width="100%" alt="Rahul Somkuwar AI Architect Banner"/>
 
 </div>
 
